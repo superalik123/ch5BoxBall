@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BoxBall
+comment0.text=\r\n\ Models\ a\ ball\ bouncing\ within\ a\ box\ by\ calling\ on\ the\ boxbounce()\ method.\r\n\r\n\ @author\ (Ali\ Khan)\r\n\ @version\ (3/31/2019)\r\n
+comment1.params=ballcount
+comment1.target=void\ boxBounce(int)
+comment1.text=\r\n\ Simulate\ a\ given\ amount\ of\ zero-gravity\ bouncing\ balls\ within\ a\ box\r\n\ @param\ ballcount\ allows\ to\ choose\ number\ of\ bouncing\ balls\ to\ display\r\n
+numComments=2

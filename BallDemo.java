@@ -1,5 +1,5 @@
 import java.awt.Color;
-
+ 
 /**
  * Class BallDemo - a short demonstration showing animation with the 
  * Canvas class. 
@@ -22,7 +22,7 @@ public class BallDemo
     {
         myCanvas = new Canvas("Ball Demo", 600, 500);
     }
-
+     
     /**
      * Simulate two bouncing balls
      */
